@@ -1,3 +1,3 @@
 layout: page
-title: "Home"
+title: home
 permalink: https://quchem.github.io/home/
