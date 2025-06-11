@@ -1,2 +1,2 @@
-permalink: https://quchem.github.io/Home-page
+# https://quchem.github.io/Home-page
 # QuChem.github.io
